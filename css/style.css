@@ -1,0 +1,20 @@
+body{
+    background-color: #CCF3EE;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: blue;
+    width: 10%;
+}
+
+h1{
+    color: blueviolet;
+}
+h3{
+    color: blueviolet;
+}
+a:hover{
+    background-color: black;
+}
